@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Wagh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **PPS and HTML CSS**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 📫 How to reach me **mayur.wagh2628@gmail.com**
 
